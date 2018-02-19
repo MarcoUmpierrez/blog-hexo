@@ -75,9 +75,12 @@ pagination_dir: page
 theme: next
 theme_config:
   scheme: Mist
+  social:
+    GitHub: https://github.com/MarcoUmpierrez 
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/MarcoUmpierrez/blog-hexo.git
+  repo: https://github.com/MarcoUmpierrez/marcoumpierrez.github.io.git
+  branch: master
