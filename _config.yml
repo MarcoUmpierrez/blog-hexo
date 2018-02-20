@@ -76,7 +76,10 @@ theme: next
 theme_config:
   scheme: Mist
   social:
-    GitHub: https://github.com/MarcoUmpierrez 
+    GitHub: https://github.com/MarcoUmpierrez
+  footer:
+    since: 2018
+  keywords: "blog, language, English, German"  
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
