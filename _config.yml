@@ -79,7 +79,17 @@ theme_config:
     GitHub: https://github.com/MarcoUmpierrez
   footer:
     since: 2018
-  keywords: "blog, language, English, German"  
+  keywords: "blog, language, English, German"
+  menu:
+    home: / || home
+    "How to comment": /How-to-comment/ || How to comment
+    archives: /archives/ || archive
+    #tags: /tags/ || tags
+    #about: /about/ || user    
+    #categories: /categories/ || th
+    #schedule: /schedule/ || calendar
+    #sitemap: /sitemap.xml || sitemap
+    #commonweal: /404/ || heartbeat    
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
