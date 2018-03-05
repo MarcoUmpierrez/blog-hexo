@@ -1,0 +1,12 @@
+---
+title: 'Day 015: 100 days writing in German and English'
+date: 2018-03-05 21:57:26
+tags:
+    - 100 Days Challenge
+    - language
+---
+English:
+> I haven't thought any Topic for today. Normally I don't do that and with a few minutes I can find a new topic to talk about, but today I'm not inspired. But, as always, we can talk about grammar, right? by the way, I must talk about a mistake that I've made. I said that "um... zu" doesn't have a translation in Spanish but that wasn't right. "Damit" works as "Para que" and "um" as "para". For example, "so that the dog can go outside" means in Spanish "para que el perro pueda salir" and "to get the dog out" would be "para sacar al perro fuera". Today I saw "entweder... oder", "zwar... aber" and "nicht nur... sondern auch". "Entweder... oder" is easy: "tell me yes or not" and "nicht nur... sondern auch" make sense in Spanish too: "I haven't just called, I was also looking for you at home" but "zwar" is a word, that I don't use frequently. Let me try: "I play with you, but with my cards". It's an structure that I don't use too frequently in Spanish so it's not easy to create different sentences.
+
+Deutsch:
+> Ich habe mir noch kein Thema für heute überlegt. Normalerweiser mache ich das nicht und einige Minuten sind genug über ein Thema zu finden, aber heute bin ich nicht inspiriert. Aber, als immer, wir können über Grammatik sprechen, oder? übrigens müss ich über ein Fehler sprechen, dass ich gemacht habe. Ich habe gesagt, dass "um... zu" hat keine Übersetzung in Spanisch aber das war nicht richtig. "Damit" funktioniert als "Para que" und "um" als "para". Zum Beispiel, "damit der Hund raus gehen kann" bedeute in Spanisch "para que el perro pueda salir" und "um der Hund raus zu gehen" wäre "para sacar al perro fuera". Heute habe ich "entweder... oder", "zwar... aber" und "nicht nur... sondern auch" gesehen. "Entweder... oder" ist einfach: "Entweder sagst du mir ja oder nein" und "nicht nur... sondern auch" macht Sinn in Spanisch auch: "Ich habe nicht nur dir telefoniert, sondern dir auch zu Hause gesucht" aber "zwar" ist ein Wort, dass ich nicht oft nützen. Lässt du mir versuchen: "Ich spiele zwar mit dir, aber mit meiner Karten". Es ist eine Struktur, dass ich nicht zu oft in Spanisch nützen so es ist nicht einfach verschiedene Sätze zu formulieren.
