@@ -1,5 +1,5 @@
 ---
-title: '081: 100 days writing in German and English'
+title: 'Day 081: 100 days writing in German and English'
 date: 2018-05-11 21:24:46
 tags:
     - 100 Days Challenge
